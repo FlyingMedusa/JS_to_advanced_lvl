@@ -11,4 +11,5 @@
 <li>ECMAScript 6</li>
 <li>Classes</li>
 <li>Advanced array methods</li>
+<li>Asynchronism</li>
 </ul>
