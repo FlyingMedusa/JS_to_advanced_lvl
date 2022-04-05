@@ -12,4 +12,8 @@
 <li>Classes</li>
 <li>Advanced array methods</li>
 <li>Asynchronism</li>
+    <ul>
+    <li>setTimeout, setInterval</li>
+    <li>Callback, Promise</li>
+    </ul>
 </ul>
