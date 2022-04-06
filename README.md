@@ -15,5 +15,6 @@
     <ul>
     <li>setTimeout, setInterval</li>
     <li>Callback, Promise</li>
+    <li>async, await</li>
     </ul>
 </ul>
