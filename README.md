@@ -17,4 +17,6 @@
     <li>Callback, Promise</li>
     <li>async, await</li>
     </ul>
+<li>Web API, DOM</li>
+<li>LocalStorage, JSON</li>
 </ul>
