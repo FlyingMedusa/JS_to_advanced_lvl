@@ -20,10 +20,10 @@
 <li>Web API, DOM</li>
 <li>LocalStorage, JSON</li>
     <ul>
-    <li>project → repository <i>Mood_Checker</i></li>
+    <li>project → repository <a href="https://github.com/FlyingMedusa/Mood_Checker">Mood_Checker</a></li>
     </ul>
 <li>OOP</li>
     <ul>
-    <li>project → repository <i>ShoppingCartProject</i></li>
+    <li>project → repository <a href="https://github.com/FlyingMedusa/ShoppingCartProject">ShoppingCartProject</a></li>
     </ul>
 </ul>
