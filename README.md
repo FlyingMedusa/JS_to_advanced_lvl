@@ -19,4 +19,11 @@
     </ul>
 <li>Web API, DOM</li>
 <li>LocalStorage, JSON</li>
+    <ul>
+    <li>project → repository <i>Mood_Checker</i></li>
+    </ul>
+<li>OOP</li>
+    <ul>
+    <li>project → repository <i>ShoppingCartProject</i></li>
+    </ul>
 </ul>
