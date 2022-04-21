@@ -26,4 +26,5 @@
     <ul>
     <li>project → repository <a href="https://github.com/FlyingMedusa/ShoppingCartProject">ShoppingCartProject</a></li>
     </ul>
+<li>Exceptions</li>
 </ul>
