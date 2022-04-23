@@ -28,4 +28,5 @@
     </ul>
 <li>Exceptions</li>
 <li>"use strict", debugging in Chrome</li>
+<li>Set, map</li>
 </ul>
